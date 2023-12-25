@@ -1,0 +1,21 @@
+BODY {
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+   }
+
+.scroll {
+    border: 1px solid #000;
+    width: 60%;
+    height: 730PX;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding: 20px;
+
+  } 
+
+.container{
+    border: 1px solid #000;
+    min-height: 150px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
